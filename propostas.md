@@ -34,4 +34,6 @@ Um sistema que reuniria informações sobre o IF: como lugares/setores principai
 
 ### Público alvo
 
+Estudantes do campus, funcionários do campus, estudantes novatos, visitantes
+
 ### Funcionalidades
